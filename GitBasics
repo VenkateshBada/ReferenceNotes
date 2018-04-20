@@ -1,3 +1,4 @@
 *   To ignore saving the files to Git repository, file .gitignore be created. In this file the specific or pattern of the files to be ignored can be specified. For example, create a file .gitignore in the project and include *.jason to ignore all json files or temp.txt to ignore the temp.text specific file.
 *   To commit to Git, first save the modified file (Ctrl + S), then stage the file by selecting stage option against the file from the Git pane. Then add Commit message and hit Commit. The file will be stored in the local Git Repository (not in the distributed Git repository).
 *   The Git history button will show the history of all the commits on the selected file.
+*   Stashing is stowing work that is not yet ready to be committed. Stashing is a way to save locally without toching the repository.
